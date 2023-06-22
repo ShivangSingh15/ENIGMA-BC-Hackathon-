@@ -1,7 +1,12 @@
 Project Title - Enigma (Future of Insurace)
 
-Install all the libraries mentioned in requirements.txt USING --  pip3 install -r requirements.txt
+Install all the libraries mentioned in requirements.txt USING --  
+pip3 install -r requirements.txt
 
+We have hided important private secret key's and id's for safety reasons,
+ so file might not run for you. You can use your own keys
+
+ 
 Demo of Our Project 
 
 
