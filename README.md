@@ -15,5 +15,5 @@ Demo of Our Project
 https://github.com/ShivangSingh15/BC-Hackathon/assets/80220584/178f7085-34f6-4682-a60d-62658c85caed
 
 
-I have also included one chatbot using openai api, for now i have just used gradio nut we can plan
+I have also included one chatbot using openai api, for now i have just used gradio but we can plan
 to integrate in our syste later.
