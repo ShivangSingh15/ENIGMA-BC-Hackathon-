@@ -22,4 +22,4 @@ Role of Team Mates -[Roles of TeamMembes.docx](https://github.com/ShivangSingh15
 
 
 I have also included one chatbot using openai api, for now i have just used gradio but we can plan
-to integrate in our syste later.
+to integrate in our system later.
