@@ -1,4 +1,4 @@
-Project Title - Enigma (Future of Insurace)
+Project Title - Enigma (Future of Insurance)
 
 Install all the libraries mentioned in requirements.txt USING --  
 pip3 install -r requirements.txt
