@@ -1,0 +1,7 @@
+nltk
+pandas
+tkinter
+boto3 
+io
+smtplib
+PIL
