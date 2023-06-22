@@ -114,7 +114,7 @@ def generate_mail():
     server = smtplib.SMTP('smtp.gmail.com',587)
     server.starttls()
     server.ehlo()
-    server.login('dropmymail.otp@gmail.com','ohinayvuupcykjmy')
+    server.login('dropmymail.otp@gmail.com','*******API_SECRET_KEY*******')
     global msg
     msg = 'Dear '+str(pat_name)+',\n\n' \
           'Welcome to ENIGMA,\n\n' \
@@ -268,8 +268,6 @@ def win1():
     text2 = tk.Entry(master=win1, width=25, relief=RIDGE, borderwidth=5)
     text2.config(font=('times new roman', 17))
     text2.place(x=470, y=210)
-
-
 
 
     upload_button = tk.Button(win1, image=img_2, command=upload_file)
