@@ -4,7 +4,7 @@ import gradio as gr
 openai.api_key = "OPENAI_API_KEY"
 
 messages = [
-    {"role": "system", "content": "You are a helpful and kind AI Assistant."},
+    {"role": "system", "content": "You are a helpful and kind AI Assistant who tells evrything related to insurance."},
 ]
 
 def chatbot(input):
